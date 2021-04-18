@@ -5,4 +5,4 @@ In collaboration with:
 
 Andreas Fiehn (AndreasLF)
 
-Johan Böcher Hanehøj 
+Johan Böcher Hanehøj (johan-bh)
