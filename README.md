@@ -2,5 +2,7 @@
 Exam project for course 02461 on DTU
 
 In Cooporation with:
-@AndreasLF
-@Johan Böcher Hanehøj
+
+Andreas Fiehn (AndreasLF)
+
+Johan Böcher Hanehøj 
